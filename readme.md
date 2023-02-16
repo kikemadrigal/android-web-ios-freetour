@@ -12,6 +12,15 @@ frontend android > 6.0
 
 Frontend iphone > 9
 
+# Documentación
+
+Se utilizará una mezcla entre El Rational Unified Process y el framework SCRUM.
+
+Para la gestión de la documentación ya no se utilizan documentos de word, ahora Notion se ha convertido en una herramienta fundamental:
+
+<a href="https://large-feather-77f.notion.site/Documentaci-n-proyecto-freetour-4ebf95f7ef7846fe85452afb045594ff">Notion</a>
+
+
 
 # Diseño y usabilidad - UI/UX - Minimum Viable Product
 
