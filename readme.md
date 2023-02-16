@@ -15,13 +15,9 @@ Frontend iphone > 9
 
 # Diseño y usabilidad - UI/UX - Minimum Viable Product
 
-Para realizar esto utilizaremos <a href="https://miro.com/welcome/Nkd2eXkwVUp6TWEyeWFjakROWXlDeWF0YnR3amI0Vm41UnRRRXg0Y010ZGRhNWVFZjFvd0x0WTRKZ1dPUmZ5b3wzNDU4NzY0NTQ2MzcxMzQ4OTc3fDQ=?share_link_id=182718438809">miro.com</a>
+Para realizar esto utilizaremos <a href="https://miro.com/app/board/uXjVPmzO3ZU=/">miro.com</a>
+<!--<a href="https://miro.com/app/board/uXjVPmzO3ZU=/?share_link_id=798309771385">miro.com</a>-->
 
-<a href="https://miro.com/app/board/uXjVPmzO3ZU=/?share_link_id=798309771385">miro.com</a>
-
-<a href="https://miro.com/app/board/uXjVPmzO3ZU=/">miro.com</a>
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPmzO3ZU=/?moveToViewport=-2106,419,1658,787&embedId=226638344768" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 # Kamban
 
