@@ -21,7 +21,7 @@ Para realizar esto utilizaremos <a href="https://miro.com/app/board/uXjVPmzO3ZU=
 
 # Kamban
 
-El tablero utilizado para seguir los requerimientos del cliente está en el propio github, pincha aquí.
+El tablero utilizado para seguir los requerimientos del cliente está en el propio github, <a hef="https://github.com/users/kikemadrigal/projects/7/views/1">pincha aquí</a>.
 
 
 
