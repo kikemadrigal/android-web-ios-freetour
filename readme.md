@@ -24,13 +24,17 @@ Para la gestión de la documentación ya no se utilizan documentos de word, ahor
 
 # Diseño y usabilidad - UI/UX - Minimum Viable Product
 
-Para realizar esto utilizaremos <a href="https://miro.com/app/board/uXjVPmzO3ZU=/" target="_blanck">miro.com</a>
+Para realizar esto utilizaremos:
+
+<a href="https://miro.com/app/board/uXjVPmzO3ZU=/" target="_blanck">miro.com</a>
 <!--<a href="https://miro.com/app/board/uXjVPmzO3ZU=/?share_link_id=798309771385">miro.com</a>-->
 
 
 # Kanban
 
-El tablero utilizado para seguir los requerimientos del cliente está en el propio github, <a href="https://github.com/users/kikemadrigal/projects/7/views/1" target="_blanck">pincha aquí</a>.
+El tablero utilizado para seguir los requerimientos del cliente está en el propio github:
+
+<a href="https://github.com/users/kikemadrigal/projects/7/views/1" target="_blanck">Github proyects</a>.
 
 
 
